@@ -76,6 +76,9 @@ print(diccionario)
 # Es posible acceder a los elementos de el diccionario por su clave
 print("Imprimiendo un elemento del diccionario: ", diccionario["nombre"])
 
+#También existe una función para crear diccionarios y es la función dict()
+diccionario = dict(nombre="Juan", edad=30, ciudad="Madrid")
+print(diccionario)
 
 
 
