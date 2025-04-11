@@ -1,0 +1,6 @@
+=== Log de Actividades ===
+Inicio de registro: 2025-04-11 01:47:07.796160
+01:47:07 - Inicio del programa
+01:47:07 - Creación de notas
+01:47:07 - Actualización de registros
+01:47:07 - Añadiendo entrada con ñ y tildes

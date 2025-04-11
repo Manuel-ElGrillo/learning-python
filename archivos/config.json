@@ -1,0 +1,22 @@
+{
+    "app_name": "Mi Aplicación",
+    "version": "1.0.0",
+    "fecha_actualizacion": "2025-04-11",
+    "configuraciones": {
+        "tema": "claro",
+        "idioma": "español",
+        "notificaciones": true
+    },
+    "usuarios_permitidos": [
+        {
+            "id": 1,
+            "nombre": "José Martínez",
+            "permisos": "total"
+        },
+        {
+            "id": 2,
+            "nombre": "María Rodríguez",
+            "permisos": "lectura"
+        }
+    ]
+}

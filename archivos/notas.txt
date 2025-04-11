@@ -1,0 +1,9 @@
+=== Mis Notas Personales ===
+Creado: 2025-04-11 01:47:07
+
+1. Aprender Python
+2. Practicar con archivos
+3. Hacer ejercicios
+4. Repasar funciones
+5. Hacer proyecto final
+6. Práctica con acentos y ñ

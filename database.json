@@ -1,0 +1,26 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Laptop",
+            "precio": 999.99,
+            "stock": 50
+        },
+        {
+            "id": 2,
+            "nombre": "Smartphone",
+            "precio": 499.99,
+            "stock": 100
+        },
+        {
+            "id": 3,
+            "nombre": "Tablet",
+            "precio": 299.99,
+            "stock": 75
+        }
+    ],
+    "metadata": {
+        "ultima_actualizacion": "2025-04-11 01:48:36",
+        "total_productos": 3
+    }
+}
