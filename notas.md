@@ -27,3 +27,9 @@ Uso práctico:
 - Diccionarios: las claves deben ser hasheables
 - Sets: todos sus elementos deben ser hasheables
 - Búsquedas rápidas: Python usa el hash como "dirección" para encontrar valores
+
+# Instalaciones
+
+Si quiero realizar la instalación de algún paquete debo usar un comando como este: 
+
+`py -m pip install matplotlib numpy`
